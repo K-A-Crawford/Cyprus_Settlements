@@ -1,0 +1,186 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2638
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\froman\fcharset0 Times-Roman;\f2\froman\fcharset0 Times-Italic;
+\f3\fnil\fcharset0 LucidaGrande;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red0\green0\blue233;\red251\green2\blue7;
+}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c0\c0\c93333;\cssrgb\c100000\c14913\c0;
+}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Sources:\
+\
+\pard\pardeftab720\partightenfactor0
+
+\f1 \cf0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Agapiou, A., Iakovou, M. and Sarris, A. (2013) \'91A Spatial Analysis of the Bronze Age Sites of the Region of Paphos in Southwest Cyprus with the Use of Geographical Information Systems\'92, in F. Contreras Cort\'e9s, M. Farjas, and F.J. Melero (eds) 
+\f2\i CAA2010: fusion of cultures: Proceedings of the 38th Annual Conference on Computer Applications and Quantitative Methods in Archaeology, Granada, Spain, April 2010
+\f1\i0 . 
+\f2\i Conference on Computer Applications and Quantitative Methods in Archaeology
+\f1\i0 , Oxford: Archaeopress (BAR international series, 2494), pp. 177\'96183.
+\f0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+\cf0 \
+\pard\pardeftab720\partightenfactor0
+
+\f1 \cf0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Bolger, D., McCartney, C. and Peltenburg, E. (2004) \'91Regional Interaction in the Prehistoric West: Lemba Archaeological Project Western Cyprus Survey\'92, in M. Iacovou (ed.) 
+\f2\i Archaeological Field Survey in Cyprus: Past History, Future Potentials
+\f1\i0 . London: The British School at Athens (British School at Athens Studies, 2), pp. 105\'96123.\
+\
+Bretschneider, J., Driessen, J. and Kanta, A. (2021) \'91Cyprus and Ugarit at the End of the Late Bronze Age: Insights from Pyla-Kokkinokremos\'92, in V. Mato\'efan (ed.) 
+\f2\i Ougarit, un anniversaire. Bilans et recherches en cours
+\f1\i0 . Leuven: Peeters, pp. 607\'96638. Available at: {\field{\*\fldinst{HYPERLINK "https://doi.org/10.2307/j.ctv27vt4z3.30"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 https://doi.org/10.2307/j.ctv27vt4z3.30}}.\
+\
+Cadogan, G. (1985) \'91Maroni\'92, in V. Karageorghis (ed.) 
+\f2\i Archaeology in Cyprus 1960\'961985
+\f1\i0 . Nicosia: A.G. Leventis Foundation, pp. 195\'96197.\
+\
+Cadogan, G. (1996) \'91Maroni:\'a0 change in Late Bronze Age Cyprus\'92, in P. \'c5str\'f6m and E. Herscher (eds) 
+\f2\i Late Bronze Age settlement in Cyprus:\'a0 Function and Relationship
+\f1\i0 . Jonsered: Paul \'c5str\'f6ms F\'f6rlag, pp. 15\'9622.\
+\
+Catling, H.W. (1962) \'91Patterns of Settlement in Bronze Age Cyprus\'92, 
+\f2\i Opuscula Atheniensia
+\f1\i0 , 4, pp. 129\'96169.\
+\
+Cherry, J.F. (1990) \'91The First Colonization of the Meditterranean Islands: A Review of Recent Research\'92, 
+\f2\i Journal of Mediterranean Archaeology
+\f1\i0 , 3(2), pp. 145\'96222. Available at: {\field{\*\fldinst{HYPERLINK "https://doi.org/10.1558/jmea.v3i2.145"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 https://doi.org/10.1558/jmea.v3i2.145}}.\
+\
+Demesticha, S. (2022) \'91Seascapes and Maritime Capacity of Late Roman Cyprus\'92, in S.W. Manning (ed.) 
+\f2\i Critical approaches to Cypriot and wider Mediterranean archaeology
+\f1\i0 . Sheffield: Equinox (Monographs in Mediterranean Archaeology), pp. 313\'96340.\
+\
+Efstratiou, N. 
+\f2\i et al.
+\f1\i0  (2010) \'91An upland early site in the Troodos mountains\'92, 
+\f2\i Report of the Department of Antiquities, Cyprus
+\f1\i0 , pp. 1\'9626.\
+\
+Fejfer, J. (1995) 
+\f2\i Ancient Akamas I: Settlement and Environment
+\f1\i0 . Illustrated edition. Aarhus: Aarhus University Press.\
+\
+Frankel, D. and Webb, J.M. (2000) \'91Marki Alonia: a prehistoric Bronze Age settlement in Cyprus\'92, 
+\f2\i Antiquity
+\f1\i0 , 74(286), pp. 763\'96764. Available at: {\field{\*\fldinst{HYPERLINK "https://doi.org/10.1017/S0003598X00060336"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 https://doi.org/10.1017/S0003598X00060336}}.\
+\
+Georgiou, G., Webb, J.M. and Frankel, D. (2011) 
+\f2\i Psematismenos-Trelloukkas: An Early Bronze Age Cemetery in Cyprus
+\f1\i0 . Department of Antiquities, Cyprus.\
+\
+Georgiou, G. (2006) 
+\f2\i \uc0\u919  \u964 \u959 \u960 \u959 \u947 \u961 \u945 \u966 \u943 \u945  \u964 \u951 \u962  \u945 \u957 \u952 \u961 \u974 \u960 \u953 \u957 \u951 \u962  \u949 \u947 \u954 \u945 \u964 \u940 \u963 \u964 \u945 \u963 \u951 \u962  \u963 \u964 \u951 \u957  \u922 \u973 \u960 \u961 \u959  \u954 \u945 \u964 \u940  \u964 \u951 \u957  \u960 \u961 \u974 \u953 \u956 \u951  \u954 \u945 \u953  \u956 \u941 \u963 \u951  \u967 \u945 \u955 \u954 \u959 \u954 \u961 \u945 \u964 \u943 \u945 
+\f1\i0 . Unpublished PhD. University of Cyprus.\
+\
+Given, M. and Knapp, A.B. (2003) 
+\f2\i The Sydney Cyprus Survey Project: Social Approaches to Regional Archaeological Survey
+\f1\i0 . Los Angeles: The Cotsen Institute of Archaeology, University of California (Monumenta Archaeologica, 21).\
+\
+Given, M. 
+\f2\i et al.
+\f1\i0  (2007) \'91Troodos Archaeological and Environmental Survey Project [data-set]\'92. Archaeology Data Service. Available at: {\field{\*\fldinst{HYPERLINK "https://doi.org/10.5284/1000271"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 https://doi.org/10.5284/1000271}}.\
+\
+Given, M. 
+\f2\i et al.
+\f1\i0  (2013) 
+\f2\i Landscape and Interaction: The Troodos Archaeological and Environmental Survey Project, Cyprus
+\f1\i0 . Oxford: Oxbow Books (Levant Supplementary Series, 15).\
+\
+Grossman, K. 
+\f2\i et al.
+\f1\i0  (2020) \'912017 Survey of Two Prehistoric Sites in Western Cyprus: Stroumpi-Pigi-Agios Andronikos and Makounta-Voules-Mersinoudia\'92, in A. Otto et al. (eds) 
+\f2\i Proceedings of the 11th International Congress on the Archaeology of the Ancient Near East
+\f1\i0 . 1st edn. Wiesbaden: Harrassowitz Verlag, pp. 105\'96114. Available at: {\field{\*\fldinst{HYPERLINK "https://doi.org/10.2307/j.ctv10tq3zv"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 https://doi.org/10.2307/j.ctv10tq3zv}}.\
+\
+Guilaine, J., Briois, F. and Vigne, J.-D. (eds) (2011) 
+\f2\i Shillourokambos: un \'e9tablissement n\'e9olithique pr\'e9-c\'e9ramique \'e0 Chypre
+\f3\i0 \uc0\u8239 
+\f2\i : les fouilles du secteur 1
+\f1\i0 . Athens: \'c9cole fran\'e7aise d\'92Ath\'e8nes.\
+\
+Hadjisavvas, S. (1991) 
+\f2\i \uc0\u922 \u945 \u964 \u945 \u946 \u959 \u955 \u949 \u962  \u921  \u913 \u961 \u967 \u945 \u953 \u959 \u955 \u959 \u947 \u953 \u954 \u942  \u917 \u960 \u953 \u963 \u954 \u972 \u960 \u951 \u963 \u951  20 \u922 \u945 \u964 \u949 \u967 \u959 \u956 \u941 \u957 \u969 \u957  \u931 \u942 \u956 \u949 \u961 \u945  \u967 \u969 \u961 \u953 \u974 \u957  \u964 \u951 \u962  \u917 \u960 \u945 \u961 \u967 \u943 \u945 \u962  \u913 \u956 \u956 \u959 \u967 \u974 \u963 \u964 \u959 \u965 
+\f1\i0 . Levkosia: Kentro Meleton Ieras Mones Kykkou; Tmema Archaiteton.\
+\
+Hadjisavvas, S. (1997) 
+\f2\i Agia Napa: Excavations at Makronisos and the Archaeology of the Region
+\f1\i0 . Nicosia: Agia Napa Municipality; Cyprus Department of Antiquities.\
+\
+Kearns, C. and Manning, S.W. (eds) (2019) 
+\f2\i New directions in Cypriot archaeology
+\f1\i0 . Ithaca [New York]: Cornell University Press.\
+\
+Knapp, A.B. (2013) 
+\f2\i The archaeology of Cyprus: from earliest prehistory through the Bronze Age
+\f1\i0 . Cambridge
+\f3 \uc0\u8239 
+\f1 ; New York: Cambridge University Press (Cambridge world archaeology).\
+\
+Knapp, A.B. (2020) \'91Maritime Narratives of Prehistoric Cyprus: Seafaring as Everyday Practice\'92, 
+\f2\i Journal of Maritime Archaeology
+\f1\i0 , 15(4), pp. 415\'96450. Available at: {\field{\*\fldinst{HYPERLINK "https://doi.org/10.1007/s11457-020-09277-7"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 https://doi.org/10.1007/s11457-020-09277-7}}.\
+\
+Manning, S.W. (1998) \'91Tsaroukkas, Mycenaeans and Trade Project: preliminary report on the 1996-1997 seasons\'92, 
+\f2\i Report of the Department of Antiquities, Cyprus
+\f1\i0 , pp. 39\'9654.\
+\
+McCartney, C. 
+\f2\i et al.
+\f1\i0  (2006) \'91Elaborating Early Neolithic Cyprus (EENC)\'92, 
+\f2\i Report of the Department of Antiquities, Cyprus
+\f1\i0 , pp. 39\'9662.\cf4 \
+\cf0 \
+Palmisano, A. 
+\f2\i et al.
+\f1\i0  (2022) \'91The NERD Dataset: Near East Radiocarbon Dates between 15,000 and 1,500 cal. yr. BP\'92, 
+\f2\i Journal of Open Archaeology Data
+\f1\i0 , 10(0), p. 2. Available at: {\field{\*\fldinst{HYPERLINK "https://doi.org/10.5334/joad.90"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 https://doi.org/10.5334/joad.90}}.\
+\
+Papantoniou, G. and Vionis, A. (2018) \'91The River as an Economic Asset: Settlement and Society in the Xeros Valley in Cyprus\'92, 
+\f2\i Land
+\f1\i0 , 7(4), p. 157. Available at: {\field{\*\fldinst{HYPERLINK "https://doi.org/10.3390/land7040157"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 https://doi.org/10.3390/land7040157}}.\
+\
+Pilides, D. (2018) \'91The Agios Sozomenos Excavations and Survey Project: results and preliminary inferences on central Cyprus in the Late Bronze Age\'92, in L. Hulin, L. Crewe, and J.M. Webb (eds) 
+\f2\i Structures of Inequality on Bronze Age Cyprus: Studies in Honour of Alison K. South
+\f1\i0 . Astrom Editions, pp. 71\'9688.\
+\
+Raber, P. (1987) \'91Early Copper Production in the Polis Region, Western Cyprus\'92, 
+\f2\i Journal of Field Archaeology
+\f1\i0 , 14(3), pp. 297\'96312. Available at: {\field{\*\fldinst{HYPERLINK "https://doi.org/10.2307/530086"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 https://doi.org/10.2307/530086}}.\
+\
+Rupp, D.W. and S\'f8rensen, L.W. (1993) 
+\f2\i The Land of the Paphian Aphrodite
+\f1\i0 . P. \'c5str\'f6ms.\
+\
+Sneddon, A. (2015) \'91Revisiting Alambra Mouttes: Defining the Spatial Configuration and Social Relations of a Prehistoric Bronze Age Settlement in Cyprus\'92, 
+\f2\i Journal of Mediterranean Archaeology
+\f1\i0 , 28(2), pp. 141\'96170. Available at: {\field{\*\fldinst{HYPERLINK "https://doi.org/10.1558/jmea.v28i2.29529"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 https://doi.org/10.1558/jmea.v28i2.29529}}.\
+\
+Stanley Price, N.P. (1979) 
+\f2\i Early Prehistoric Settlement in Cyprus: A Review and Gazetteer of Sites, c. 6500-3000 B.C.
+\f1\i0  Oxford: BAR (BAR International Series 65).\
+\
+Todd, I.A. (2004) 
+\f2\i Vasilikos Valley Projet 9: The Field Survey of the Vasilikos Valley
+\f1\i0 . S\'e4vedalen: Paul \'c5str\'f6ms F\'f6rlag (Studies in Mediterranean Archaeology, 71:9).\
+\
+Toumazou, M.K., Yerkes, R.W. and Kardulias, P.N. (1998) \'91Athienou Archaeological Project: Investigations in the Malloura Valley, Cyprus, 1990-1995\'92, 
+\f2\i Journal of Field Archaeology
+\f1\i0 , 25(2), pp. 163\'96182. Available at: {\field{\*\fldinst{HYPERLINK "https://doi.org/10.2307/530577"}}{\fldrslt \cf3 \ul \ulc3 \strokec3 https://doi.org/10.2307/530577}}.\
+\
+Webb, J.M. (2009) 
+\f2\i The Bronze Age Cemeteries at Karmi Palealona and Lapatsa in Cyprus: Excavations by J.R.B. Stewart
+\f1\i0 . \'c5str\'f6ms f\'f6rlag.\
+\
+Webb, J.M. (2018) 
+\f2\i Lapithos Vrysi Tou Barba, Cyprus: Early and Middle Bronze Age Tombs Excavated by Menelaos Markides
+\f1\i0 . Astrom Editions.\
+\
+Webb, M.J., Webb, J.M. and Frankel, D. (2013) 
+\f2\i Ambelikou Aletri Metallurgy and Pottery Production in Middle Bronze Age Cyprus
+\f1\i0 . Aastr\'f6ms f\'f6rlag.\
+\
+\
+}
