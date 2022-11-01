@@ -17,6 +17,6 @@ Crawford, K.A. and Vella, M-A. 2022. Cyprus Settlement Database, version 1.0 (1 
 
 ## Funding
 The following dataset was created under the following grant:
-[EIDOS of a City: simulating the collapse and resilience of ancient Eastern Mediterranean urban environments via agent-based modelling (https://eidos.cyi.ac.cy/)]
-(Marie Sklodowska-Curie grant agreement No 893249)
-Award Holder - Katherine A. Crawford
+EIDOS of a City: simulating the collapse and resilience of ancient Eastern Mediterranean urban environments via agent-based modelling
+(Marie Sklodowska-Curie grant agreement No 893249).
+Award Holder: Katherine A. Crawford
