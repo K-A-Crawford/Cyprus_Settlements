@@ -1,5 +1,5 @@
 # Cyprus_Settlements
-[![DOI](https://zenodo.org/badge/{github_K-A-Crawford}.svg)](https://zenodo.org/badge/latestdoi/{github_K-A-Crawford})
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7271681.svg)](https://zenodo.org/badge/DOI/10.5281/zenodo.7271681.svg)
 
 Dataset of 1559 ranging from the Late Epipalaeolithic (11000 BCE) to the end of the Ottoman Period (1878 CE)
 
