@@ -1,4 +1,6 @@
 # Cyprus_Settlements
+[![DOI](https://zenodo.org/badge/{github_id}.svg)](https://zenodo.org/badge/latestdoi/{github_id})
+
 Dataset of 1559 ranging from the Late Epipalaeolithic (11000 BCE) to the end of the Ottoman Period (1878 CE)
 
 ### Katherine A. Crawford and Marc-Antoine Vella
