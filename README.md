@@ -1,7 +1,7 @@
 # Cyprus_Settlements
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7271681.svg)](https://zenodo.org/badge/DOI/10.5281/zenodo.7271681.svg)
 
-Dataset of 1559 ranging from the Late Epipalaeolithic (11000 BCE) to the end of the Ottoman Period (1878 CE)
+Dataset of 1559 settlements ranging from the Late Epipalaeolithic (11000 BCE) to the end of the Ottoman Period (1878 CE)
 
 ### Katherine A. Crawford and Marc-Antoine Vella
 
