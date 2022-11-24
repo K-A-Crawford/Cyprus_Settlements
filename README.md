@@ -1,5 +1,6 @@
 # Cyprus_Settlements
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7271681.svg)](https://zenodo.org/badge/DOI/10.5281/zenodo.7271681.svg)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7271681.svg)](https://doi.org/10.5281/zenodo.7271681)
+[![version](https://img.shields.io/badge/version-1.0-cyan.svg)](https://github.com/K-A-Crawford/Cyprus_Settlements)
 
 Dataset of 1559 settlements ranging from the Late Epipalaeolithic (11000 BCE) to the end of the Ottoman Period (1878 CE)
 
