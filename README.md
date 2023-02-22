@@ -20,6 +20,8 @@ The Cyprus Settlement dataset is made available under the Creative Common Licens
 ## How to Cite
 Crawford, K.A. and Vella, M-A. 2022. Cyprus Settlement Database, version 1.0 (1 November 2022): https://github.com/K-A-Crawford/Cyprus_Settlements
 
+Crawford, K.A. and Vella, M-A. 2022. ‘Cyprus Dataset: Settlements from 11000 BCE to 1878 CE.’ Journal of Open Archaeology Data 10: 7, p. 1-6. DOI: http://doi.org/10.5334/joad.96
+
 ## Funding
 The following dataset was created under the following grant:
 EIDOS of a City: simulating the collapse and resilience of ancient Eastern Mediterranean urban environments via agent-based modelling
